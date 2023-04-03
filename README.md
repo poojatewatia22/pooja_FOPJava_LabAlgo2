@@ -7,6 +7,7 @@ achieves the same. If the target is not achievable, then display the target is n
 
 
 TestCase 1
+
 enter the size of transaction array
 3
 enter the values of array
@@ -26,6 +27,7 @@ Target 2 i.e 19 is achieved in the 1st transaction itself.
 
 
 Test Case 2
+
 enter the size of transaction array
 1
 enter the values of array
